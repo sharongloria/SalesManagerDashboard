@@ -5,7 +5,7 @@ decision-making.
 
 Data Sources
 Data sourced from Kaggle - Five Excel files used:
-                              3 dimension tables and 2 fact tables
+                              3 dimension tables and 2 fact tables.
 Objectives
 Show if monthly and yearly sales met their targets
 Display what products were sold and to which customers
